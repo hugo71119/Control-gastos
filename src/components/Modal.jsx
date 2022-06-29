@@ -78,6 +78,8 @@ function Modal({setModal, animarModal,setAnimarModal, guardarGasto, gastoEditar,
                   <option value="ocio">Ocio</option>
                   <option value="salud">Salud</option>
                   <option value="suscripciones">Suscripciones</option>
+                  <option value="uber">Uber</option>
+                  <option value="tortillas">Tortillas</option>
               </select>
           </div>
 
