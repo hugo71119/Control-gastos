@@ -79,7 +79,16 @@ function Modal({setModal, animarModal,setAnimarModal, guardarGasto, gastoEditar,
                   <option value="salud">Salud</option>
                   <option value="suscripciones">Suscripciones</option>
                   <option value="uber">Uber</option>
-                  <option value="tortillas">Tortillas</option>
+                  <option value="queso">Queso</option>
+                  <option value="pollo">Pollo</option>
+                  <option value="carne">Carne</option>
+                  <option value="juevesTianguis">JuevesTianguis</option>
+                  <option value="miercolesTianguis">MiercolesTianguis</option>
+                  <option value="ropa">Ropa</option>
+                  <option value="propinas">Propinas</option>
+                  <option value="gas">Gas</option>
+                  <option value="gasolina">Propinas</option>
+                  <option value="mecanico">Mecanico</option>
               </select>
           </div>
 
