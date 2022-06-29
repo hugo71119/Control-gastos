@@ -88,7 +88,7 @@ function Modal({setModal, animarModal,setAnimarModal, guardarGasto, gastoEditar,
                   <option value="propinas">Propinas</option>
                   <option value="gas">Gas</option>
                   <option value="gasolina">Propinas</option>
-                  <option value="mecanico">Mecanico</option>
+                  <option value="mecanico">Mecánico</option>
               </select>
           </div>
 
